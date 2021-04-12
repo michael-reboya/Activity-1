@@ -3,5 +3,5 @@
 	get_header();
 ?>
 
-<h3>ABOUT BULSHIT</h3>
+<h3></h3>
 <?php get_footer(); ?>
